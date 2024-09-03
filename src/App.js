@@ -10,7 +10,7 @@ import Portfolio from './pages/Portfolio';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/kawthar-mashkour">
     <NavBarOffCanvas/>
     <Routes>
       <Route path="/" element={<Home/>} />
