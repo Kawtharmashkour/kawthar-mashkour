@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/kawthar-mashkour/static/css/main.9ac7d567.chunk.css",
+    "main.js": "/kawthar-mashkour/static/js/main.5028610d.chunk.js",
+    "main.js.map": "/kawthar-mashkour/static/js/main.5028610d.chunk.js.map",
+    "runtime-main.js": "/kawthar-mashkour/static/js/runtime-main.6ebbb8de.js",
+    "runtime-main.js.map": "/kawthar-mashkour/static/js/runtime-main.6ebbb8de.js.map",
+    "static/css/2.b71989ea.chunk.css": "/kawthar-mashkour/static/css/2.b71989ea.chunk.css",
+    "static/js/2.ad7bc7bd.chunk.js": "/kawthar-mashkour/static/js/2.ad7bc7bd.chunk.js",
+    "static/js/2.ad7bc7bd.chunk.js.map": "/kawthar-mashkour/static/js/2.ad7bc7bd.chunk.js.map",
+    "static/js/3.1ad7a169.chunk.js": "/kawthar-mashkour/static/js/3.1ad7a169.chunk.js",
+    "static/js/3.1ad7a169.chunk.js.map": "/kawthar-mashkour/static/js/3.1ad7a169.chunk.js.map",
+    "index.html": "/kawthar-mashkour/index.html",
+    "precache-manifest.561d7bf6c391f40084c0998675d22f1f.js": "/kawthar-mashkour/precache-manifest.561d7bf6c391f40084c0998675d22f1f.js",
+    "service-worker.js": "/kawthar-mashkour/service-worker.js",
+    "static/css/2.b71989ea.chunk.css.map": "/kawthar-mashkour/static/css/2.b71989ea.chunk.css.map",
+    "static/css/main.9ac7d567.chunk.css.map": "/kawthar-mashkour/static/css/main.9ac7d567.chunk.css.map",
+    "static/js/2.ad7bc7bd.chunk.js.LICENSE.txt": "/kawthar-mashkour/static/js/2.ad7bc7bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ebbb8de.js",
+    "static/css/2.b71989ea.chunk.css",
+    "static/js/2.ad7bc7bd.chunk.js",
+    "static/css/main.9ac7d567.chunk.css",
+    "static/js/main.5028610d.chunk.js"
+  ]
+}
