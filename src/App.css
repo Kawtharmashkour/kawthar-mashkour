@@ -182,17 +182,7 @@ td,th {
   font-style: normal
 }
 
-[class^=w-icon-],[class*=\ w-icon-] {
-  speak: none;
-  font-variant: normal;
-  text-transform: none;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 1;
-  font-family: webflow-icons!important
-}
+
 
 .w-icon-slider-right:before {
   content: ""
@@ -1298,28 +1288,9 @@ textarea.w-input,textarea.w-select {
   box-shadow: none
 }
 
-.w-slider-arrow-left,.w-slider-arrow-right {
-  width: 80px;
-  cursor: pointer;
-  color: #fff;
-  -webkit-tap-highlight-color: transparent;
-  tap-highlight-color: transparent;
-  -webkit-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  margin: auto;
-  font-size: 40px;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  overflow: hidden
-}
 
-.w-slider-arrow-left [class^=w-icon-],.w-slider-arrow-right [class^=w-icon-],.w-slider-arrow-left [class*=\ w-icon-],.w-slider-arrow-right [class*=\ w-icon-] {
-  position: absolute
-}
+
+
 
 .w-slider-arrow-left:focus,.w-slider-arrow-right:focus {
   outline: 0
