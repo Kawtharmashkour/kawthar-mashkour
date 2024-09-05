@@ -13,12 +13,6 @@ function App() {
     <Router basename="/kawthar-mashkour">
     <NavBarOffCanvas/>
     <Home/>
-    <Routes>
-      <Route path="/" element={<Home/>} />
-      {/* <Route path="/about" element={<AboutUs/>} /> */}
-      <Route path="/resume" element={<Resume/>} />
-      <Route path="/portfolio" element={<Portfolio/>} />
-    </Routes>
     <Footer/>
   </Router>
   );
