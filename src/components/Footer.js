@@ -10,7 +10,7 @@ function Footer() {
         <Col md={6} className="mb-3 mb-md-0">
           <a href="/" className="logo-footer" style={{ textDecoration: 'none' }}>
           <Image
-            src="/favicon.ico" // Ensure this path correctly points to your favicon
+            src={require("/favicon.ico")} // Ensure this path correctly points to your favicon
             alt="Kawthar Mashkour Logo"
             width={40}
             height={24}

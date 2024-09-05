@@ -10,11 +10,11 @@ import Portfolio from './pages/Portfolio';
 
 function App() {
   return (
-    <Router basename="/kawthar-mashkour">
+    <>
     <NavBarOffCanvas/>
     <Home/>
     <Footer/>
-  </Router>
+  </>
   );
 }
 
